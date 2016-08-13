@@ -1,0 +1,2 @@
+# AsyncListView
+本次Demo实现了使用Android中的异步任务来加载网络上的内容，同时实现了图片的下载与展示
